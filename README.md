@@ -1,2 +1,2 @@
-# Connect-Four
-React Connect Four 
+# Connect Four
+Interview- Create Connect Four in React.
